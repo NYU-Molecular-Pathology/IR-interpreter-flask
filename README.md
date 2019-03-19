@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/NYU-Molecular-Pathology/IR-interpreter.svg?branch=master)](https://travis-ci.org/NYU-Molecular-Pathology/IR-interpreter)
+__NOTE__: This version of the app is deprecated, see the latest version here: https://github.com/NYU-Molecular-Pathology/IR-interpreter
 
-- __Demo site available [here](https://ir-interpreter.herokuapp.com/)__ (not secured for clinical usage; for demonstration purpose only!)
+[![Build Status](https://travis-ci.org/NYU-Molecular-Pathology/IR-interpreter-flask.svg?branch=master)](https://travis-ci.org/NYU-Molecular-Pathology/IR-interpreter-flask)
+
+- __Demo site available [here](https://ir-interpreter-flask.herokuapp.com/)__ (not secured for clinical usage; for demonstration purpose only!)
 
 # IR-interpreter
 Clinical interpreter for Ion Reporter and Oncomine analysis results
@@ -28,7 +30,7 @@ The [Precision Medicine Knowledge Base](https://pmkb.weill.cornell.edu/) ([PMKB]
 Clone this repo:
 
 ```
-git clone --depth 1 https://github.com/NYU-Molecular-Pathology/IR-interpreter.git
+git clone --depth 1 https://github.com/NYU-Molecular-Pathology/IR-interpreter-flask
 cd IR-interpreter
 ```
 
